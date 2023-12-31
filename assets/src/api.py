@@ -66,15 +66,20 @@ class API(object):
         self.session: requests.Session = requests.Session()
     
     # this method retrieves a list of available models
-    def get_model(self) -> dict[str, dict[str, str]]:
+    def get_models(self) -> dict[str, dict[str, str]]:
 
         """Get model used"""
 
         # logging info
-        logger.info(f"Getting model used...\n")
+        logger.info(f"Fetching models...\n")
 
         return {"data": [
             {"id": "gpt-3.5-turbo"},
+            {"id": "gpt-3.5-turbo-1106"},
+            {"id": "gpt-3.5-turbo-0613"},
+            {"id": "gpt-3.5-turbo-16k"},
+            {"id": "gpt-3.5-turbo-16k-0613"},
+
         ]}
 
     # this method allows you to chat with chatgpt
