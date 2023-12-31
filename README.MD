@@ -11,6 +11,7 @@ Welcome to **AIEarth-Wrapper**, your local Flask server serving as a reverse pro
 - [Configuration](#configuration)
 - [Legal](#legal)
 - [License](#license)
+- [Google Colab][#Colab]
 
 ## Description
 
@@ -96,5 +97,9 @@ Please review the [LEGAL.MD](LEGAL.MD) file for important legal information, dis
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). See the LICENSE.md file for details.
+
+## Colab
+
+This project is also hosted on [Google Colab](https://colab.research.google.com/drive/1R1FUZKDgYloF4iD6-ZZi8fxGZvbLy1-0?usp=sharing)
 
 ---
