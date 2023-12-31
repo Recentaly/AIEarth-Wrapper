@@ -23,6 +23,7 @@ Welcome to **AIEarth-Wrapper**, your local Flask server serving as a reverse pro
 - **Streaming Support**: Provides both streamed and non-streamed responses based on user preferences.
 - **Configurability**: Easily configurable through a `config.json` file, allowing customization of host, port, and other settings.
 - **Educational Purpose**: Designed strictly for educational purposes, allowing users to explore and learn about OpenAI's GPT-3.5-turbo model.
+- **Tools**: The model supports web browsing, web searching and has an inbuilt calculator.
 
 ## Installation
 
