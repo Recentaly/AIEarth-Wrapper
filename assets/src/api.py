@@ -131,8 +131,6 @@ class API(object):
                     # parse json data
                     delta_chunk: dict[str, Any] = json.loads(line.decode('utf-8').removeprefix("data: "))
 
-                    print(f"Message: {delta_chunk['message']}\n")
-
                     # filter out the "input" key. When web search is used, the "input" key is present in the response and it looks.. ugly.. so we filter it out
                     if '{"input":' not in delta_chunk["message"]:
 
