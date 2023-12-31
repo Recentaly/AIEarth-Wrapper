@@ -1,0 +1,13 @@
+This repository is independent of and not endorsed by the providers of the APIs featured herein on GitHub.
+
+Please take note of the following:
+
+    Disclaimer: The APIs, services, and trademarks mentioned in this repository are the property of their respective owners. This project makes no claims to ownership or affiliation with any of the mentioned providers.
+
+    Liability: The creator of this repository disclaims any responsibility for consequences, damages, or losses resulting from the use or misuse of this repository or the content derived from third-party APIs. Users bear sole responsibility for their actions and any subsequent repercussions. It is highly recommended that users adhere to each website's Terms of Service.
+
+    Educational Use Only: This repository and its contents are strictly meant for educational purposes. Users utilizing the information and code provided acknowledge that they are doing so at their own risk and commit to complying with all applicable laws and regulations governing API usage.
+
+    Indemnification: Users agree to indemnify, defend, and hold the repository author harmless from any claims, liabilities, damages, losses, or expenses, including legal fees and costs, arising from their use or misuse of this repository, its content, or related third-party APIs.
+
+    Updates and Revisions: The repository author retains the right to modify, update, or remove any content, information, or features within this repository at any time without prior notification. Users are responsible for regularly reviewing the content and any alterations made to this repository.

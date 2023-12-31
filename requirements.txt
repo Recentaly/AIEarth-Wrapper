@@ -1,0 +1,5 @@
+flask
+flask_cors
+fake_useragent
+flask_cloudflared
+requests
