@@ -11,7 +11,7 @@ Welcome to **AIEarth-Wrapper**, your local Flask server serving as a reverse pro
 - [Configuration](#configuration)
 - [Legal](#legal)
 - [License](#license)
-- [Google Colab][#Colab]
+- [Colab][#Colab]
 
 ## Description
 
