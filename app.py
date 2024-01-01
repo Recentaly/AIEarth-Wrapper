@@ -117,7 +117,7 @@ def get_model() -> str:
 
     """Get model used"""
 
-    return jsonify(Api.get_model())
+    return jsonify(Api.get_models())
 
 # root to check if server is running
 @app.route("/", methods=["GET"])
